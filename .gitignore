@@ -1,0 +1,21 @@
+# VS Code
+.vscode/
+
+# JetBrains (IntelliJ, PyCharm)
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env/
+
+# Java
+*.class
+out/
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
